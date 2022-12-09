@@ -5,7 +5,7 @@
 • Price - The price field is a double that holds the item’s retail price.
 Write a constructor that accepts arguments for each field, appropriate mutator methods that store values in these fields, and accessor methods that return the values in these fields. Write the main method which creates three Retail Item objects and invokes appropriate methods.
  */
-
+//
 // Retail Items Class
 class RetailItem {
    private String desc;

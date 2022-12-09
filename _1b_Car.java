@@ -10,7 +10,7 @@ The class should have the following constructor and other methods.
 • Brake method should subtract 5 from the speed field each time it is called.
 Demonstrate the class in a program that creates a Car object, and then calls the accelerate method five times. After each call to the accelerate method, get the current speed of the car and display it. Call the brake method five times. After each call to the brake method, get the current speed of the car and display it.
  */
-
+//
 // Car class
 class Car {
    private int model;

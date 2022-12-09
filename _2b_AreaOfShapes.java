@@ -1,4 +1,5 @@
 // Shape Class: Abstract
+//
 abstract class Shape {
     abstract void showArea();
 }
