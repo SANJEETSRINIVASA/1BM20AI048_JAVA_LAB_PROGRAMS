@@ -43,7 +43,7 @@ class Number {
 public class JavaEx1 {
     public static void main(String[] args) {
         Number n1 = new Number(5);
-        System.out.println(n1.isZero());
+        System.out.println("iszero=" + n1.isZero());
     }
 
 }
