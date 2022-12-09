@@ -99,7 +99,7 @@ class D extends B {
     }
 }
 
-public class _2a_inheritanceType {
+public class _2a_InheritanceType {
     public static void main(String[] args) {
 
         // Default constructor
