@@ -1,4 +1,3 @@
-package Programming_Assignment;
 
 class Number {
     private double n;
